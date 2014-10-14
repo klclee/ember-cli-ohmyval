@@ -17,12 +17,12 @@
     "node": ">= 0.10.0"
   },
   "author": {
-    "name" : "charlie",
-    "url" : "https://github.com/klclee"
+    "name": "charlie",
+    "url": "https://github.com/klclee"
   },
   "license": "MIT",
   "bugs": {
-    "url" : "https://github.com/klclee/ember-cli-ohmyval/issues"
+    "url": "https://github.com/klclee/ember-cli-ohmyval/issues"
   },
   "devDependencies": {
     "body-parser": "^1.2.0",
@@ -40,7 +40,7 @@
   "keywords": [
     "ember-addon",
     "ember-validation",
-    "validation"
+    "validation",
     "emberjs"
   ],
   "ember-addon": {
