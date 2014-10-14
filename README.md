@@ -15,7 +15,7 @@ To install:
  
 ```npm install ember-cli-ohmyval --dave-dev```
 
-then at import it.
+Then import where you need it.
 
 ```import VlidationMixin from 'your-app-name/mixins/ohmyval'```
 
