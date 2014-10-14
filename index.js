@@ -14,7 +14,6 @@ module.exports = {
     if(name === "app"){
       var treePath =  path.join('node_modules','ember-cli-ohmyval',name);
       if (fs.existsSync(treePath)) {
-        console.log('AAA');
         return this.unwatchedTree(treePath);
       } 
     }
