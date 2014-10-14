@@ -23,7 +23,7 @@
   "license": "MIT",
   "bugs": {
     "url" : "https://github.com/klclee/ember-cli-ohmyval/issues"
-  }
+  },
   "devDependencies": {
     "body-parser": "^1.2.0",
     "broccoli-asset-rev": "0.3.0",
