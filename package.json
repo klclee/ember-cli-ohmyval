@@ -1,6 +1,8 @@
 {
   "name": "ember-cli-ohmyval",
   "version": "0.1.7",
+  "description": "Ember js object validation mixin",
+  "main": "index.js",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -14,8 +16,14 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": {
+    "name" : "charlie",
+    "url" : "https://github.com/klclee"
+  },
   "license": "MIT",
+  "bugs": {
+    "url" : "https://github.com/klclee/ember-cli-ohmyval/issues"
+  }
   "devDependencies": {
     "body-parser": "^1.2.0",
     "broccoli-asset-rev": "0.3.0",
@@ -30,7 +38,10 @@
     "glob": "^4.0.5"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-validation",
+    "validation"
+    "emberjs"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
