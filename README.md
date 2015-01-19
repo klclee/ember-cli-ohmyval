@@ -17,7 +17,7 @@ To install:
 
 Then import where you need it.
 
-```import VlidationMixin from 'your-app-name/mixins/ohmyval'```
+```import VlidationMixin from 'ohmyval/mixins/ohmyval'```
 
 
 ## Validations
@@ -210,6 +210,6 @@ Then import where you need it.
 
 ## Next Steps
 
-* Add tests back in.
+* More tests.
 * Add more validation
 * Make it easily extendable with custom validation
