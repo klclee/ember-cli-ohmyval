@@ -1,10 +1,14 @@
 {
   "name": "ember-cli-ohmyval",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Ember js object validation mixin",
   "directories": {
     "doc": "doc",
     "test": "tests"
+  },
+  "repository" :{ 
+    "type" : "git", 
+    "url" : "https://github.com/klclee/ember-cli-ohmyval.git"
   },
   "scripts": {
     "start": "ember server",
