@@ -9,11 +9,7 @@ There is a few validation packages around but non of them works well with Ember 
 
 ## Installation
 
-As the name suggest this works only if you are using [ember-cli](http://www.ember-cli.com/) to look after your ember project. I do have a older version that is not maintined anymore call [ember-ohmyval](https://github.com/klclee/ember-ohmyval). But I do suggest you try out Ember cli if you get a chance!
-
-To install:
- 
-```npm install ember-cli-ohmyval --dave-dev```
+```npm install ember-cli-ohmyval --save-dev```
 
 Then import where you need it.
 
