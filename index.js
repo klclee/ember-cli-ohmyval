@@ -1,6 +1,6 @@
-/* jshint node: true */
+/* eslint-env node */
 'use strict';
 
 module.exports = {
-  name: 'ohmyval'
+  name: 'ember-cli-ohmyval'
 };
