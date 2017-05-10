@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-ohmyval",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "Ember js object validation mixin",
   "directories": {
     "doc": "doc",
