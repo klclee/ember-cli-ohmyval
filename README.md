@@ -1,3 +1,7 @@
+#This is now deprecated and does not work with ember >2.11
+
+* Recommend to use [ember-changeset](https://github.com/DockYard/ember-changeset) and [ember-changeset-validations](https://github.com/DockYard/ember-changeset-validations) instead.
+
 ## ember-cli-ohmyval
 
 A small validation mixin script I am using that work (even with Ember Data).
